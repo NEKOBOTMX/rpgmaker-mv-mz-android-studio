@@ -1,4 +1,4 @@
-# RPG Nekos by Nekobot
+# RPG Nekos
 
 Android Studio repository for publishing RPG Maker MV/MZ games on Android.
 
