@@ -1,0 +1,16 @@
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# RPG Maker exports can be large and may contain licensed assets.
+game-export/www/*
+!game-export/www/.gitkeep
+android/app/src/main/assets/www/*
+!android/app/src/main/assets/www/index.html
+
+# Android release signing files
+*.jks
+*.keystore
